@@ -1,1 +1,7 @@
-# Учебные проекты программы Data-Science
+# Учебные проекты программы Яндекс Практикум "Cпециалист по Data Science"
+
+| Название проекта           | Описание проекта          | Инструменты                  |
+|  :--------------------|  :--------------------| :--------------------
+| [Построение модели определения стоимости автомобиля](https://github.com/Grigoranne/yandex_practicum/tree/main/project_auto_price)  |Сервис по продаже автомобилей с пробегом «Не бит, не крашен» разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. В нашем распоряжении исторические данные: технические характеристики, комплектации и цены автомобилей. Нужно построить модель для определения стоимости. | `pandas` `matplotlib` `seaborn` `CatBoostRegressor` `lightgbm` `sklearn` |
+| [Прогнозирование оттока клиентов](https://github.com/Grigoranne/yandex_practicum/tree/main/project_ottok_klientov) | Научиться прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия| `pandas` `matplotlib` `seaborn` `phik` `scikit-learn` `catboost` `lightgbm` `LogisticRegression` `GridSearchCV` `OneHotEncoder` `StandardScaler` |
+| [Прогнозирование заказов такси на следующий час](https://github.com/Grigoranne/yandex_practicum/tree/main/project_zakaz_taxi) | Компания собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. | `pandas` `matplotlib` `seaborn` `statsmodels` `scikit-learn` `LinearRegression` `RandomForestRegressor` `catboost` `lightgbm` |
