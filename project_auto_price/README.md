@@ -35,5 +35,5 @@
 
  # Используемые библиотеки:
 
- ```pandas``` ```matplotlib``` ```seaborn``` ```CatBoostRegressor``` ```lightgbm``` ```sklearn```
+ ```pandas``` ```matplotlib``` ```seaborn``` ```CatBoostRegressor``` ```lightgbm``` ```scikit-learn```
 
