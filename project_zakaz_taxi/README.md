@@ -14,3 +14,13 @@
 `statsmodels` `scikit-learn` 
 
 `LinearRegression` `RandomForestRegressor` `catboost` `lightgbm`
+
+# Вывод
+
+В данном исследовании мы выполнили следующие шаги:
+
+- проанализировали данные, выявили тренд и сезонность
+- разделили данные на обучающую и тестовую выборку, создали новые признаки
+- обучили модели: LGBMRegressor, CatBoostRegressor, RandomForestRegressor и LinearRegression
+- лучший результат метрики показа модель CatBoostRegressor (RMSE = 23.842792)
+- провели тестирование лучшей модели и получили результат: RMSE = 42.18424209236759, что соответствует заявленным требованиям.
